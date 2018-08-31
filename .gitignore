@@ -5,3 +5,5 @@ etc/*
 include/*
 lib/*
 share/*
+*.gz
+*.pyc
